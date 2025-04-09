@@ -1,7 +1,7 @@
-# MovieFlare
+# 🎬 MovieFlare
 **Discover top trending movies by genre or search — powered by TMDB.**  
 MovieFlare is a modern, responsive React application that lets users explore movies, filter by genre, and search titles in real-time. Built with Vite and styled with Tailwind CSS, it offers a sleek and fast user experience.
-# 🎬 MovieFlare
+
 
 
 
