@@ -4,11 +4,11 @@
 @import "tailwindcss";
 
 @theme {
-  --color-primary: #1a0000; /* Deep ember/dark red */
-  --color-light-100: #ffe2b0; /* warm soft yellow-orange */
-  --color-light-200: #ffc58f; /* peachy gold */
-  --color-gray-100: #b8926a; /* warm sand gray */
-  --color-dark-100: #330000; /* dark flame base */
+  --color-primary: #1a0000; 
+  --color-light-100: #ffe2b0; 
+  --color-light-200: #ffc58f; 
+  --color-gray-100: #b8926a;
+  --color-dark-100: #330000;
 
   --font-dm-sans: DM Sans, sans-serif;
 

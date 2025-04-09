@@ -48,7 +48,6 @@ const App = () => {
     }
     finally{
       setIsLoading(false);
-      console.log('Hello');
     }
   }
   useEffect(()=>{
