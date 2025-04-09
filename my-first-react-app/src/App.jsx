@@ -69,7 +69,7 @@ const App = () => {
       <div className='pattern'/>
       <div className="wrapper">
       <header className='flame-hero'>
-        <h1>Top <span className='text-gradient'>Movies</span> Must <span className='text-gradient'>Watch</span>, <br />All <span className='text-gradient'>Genres</span>
+        <h1>Unmissable <span className='text-gradient'>Movies, </span>All <span className='text-gradient'>Genres</span>, <br />One <span className='text-gradient'>Place</span>
         </h1>
         <Search searchTerm={searchTerm} setSearchTerm={setSearchTerm}/></header>
         <section className='all-movies'>
